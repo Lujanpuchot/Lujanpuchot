@@ -5,7 +5,7 @@ M.A. student in Economics at Universidad de San Andrés (Buenos Aires) and resea
 **Research code**
 
 - [fuel-pricing-argentina](https://github.com/Lujanpuchot/fuel-pricing-argentina). M.A. thesis, *When the State Competes: Ownership, Market Power, and Market Failure in Argentina's Retail Gasoline Market*. A station-level panel of 5 million records (2004-2024), geocoding of 8,700 stations, market covariates, and the research proposal and analysis plan for a structural model of demand and supply.
-- [CreditScore_Motherhood](https://github.com/Lujanpuchot/CreditScore_Motherhood). Credit scores, gender and motherhood in the New York Fed's Survey of Consumer Expectations. An extension of my undergraduate thesis at Universidad de Buenos Aires.
+- [credit-score-motherhood](https://github.com/Lujanpuchot/credit-score-motherhood). Credit scores, gender and motherhood in the New York Fed's Survey of Consumer Expectations. An extension of my undergraduate thesis at Universidad de Buenos Aires.
 
 **Experience**
 

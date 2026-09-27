@@ -1,6 +1,6 @@
 ### María Luján Puchot
 
-M.A. student in Economics at Universidad de San Andrés (Buenos Aires) and research assistant at Princeton University. My interests are industrial organization, regulation and competition policy, structural econometrics and applied microeconomics.
+M.A. student in Economics at Universidad de San Andrés (Buenos Aires) and research assistant at Princeton University. My interests are industrial organization, game theory, structural econometrics, development economics, education, poverty, gender and family.
 
 **Research code**
 
